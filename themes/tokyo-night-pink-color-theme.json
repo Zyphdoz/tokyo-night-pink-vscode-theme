@@ -533,6 +533,20 @@
             }
         },
         {
+            "name": "type references",
+            "scope": "entity.name.type",
+            "settings": {
+                "foreground": "#cc7be2"
+            }
+        },
+        {
+            "name": "class names",
+            "scope": "entity.name.type.class",
+            "settings": {
+                "foreground": "#7f1fbe"
+            }
+        },
+        {
             "name": "Number, Boolean, Undefined, Null",
             "scope": [
                 "variable.other.constant",

@@ -1,9 +1,9 @@
 {
-    "name": "tokyo-night",
-    "displayName": "Tokyo Night",
-    "description": "A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
+    "name": "tokyo-night-pink",
+    "displayName": "Tokyo Night Pink",
+    "description": "A slightly more pink version of a clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
     "version": "1.1.2",
-    "publisher": "enkia",
+    "publisher": "Zyphdoz",
     "license": "MIT",
     "keywords": [
         "theme",
@@ -14,13 +14,13 @@
         "clean"
     ],
     "icon": "icon.png",
-    "homepage": "https://github.com/enkia/tokyo-night-vscode-theme",
+    "homepage": "https://github.com/Zyphdoz/tokyo-night-pink-vscode-theme",
     "repository": {
-        "url": "https://github.com/enkia/tokyo-night-vscode-theme",
+        "url": "https://github.com/Zyphdoz/tokyo-night-pink-vscode-theme",
         "type": "git"
     },
     "bugs": {
-        "url": "https://github.com/enkia/tokyo-night-vscode-theme/issues"
+        "url": "https://github.com/Zyphdoz/tokyo-night-pink-vscode-theme/issues"
     },
     "galleryBanner": {
         "color": "#1f2335",
@@ -39,6 +39,11 @@
                 "label": "Tokyo Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tokyo-night-color-theme.json"
+            },
+            {
+                "label": "Tokyo Night Pink",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tokyo-night-pink-color-theme.json"
             },
             {
                 "label": "Tokyo Night Storm",
